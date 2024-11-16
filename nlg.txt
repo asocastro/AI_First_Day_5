@@ -1,0 +1,250 @@
+"On 2023-01-01, during the Winter, the product with ID iPhone 14 achieved sales of 199 units, resulting in an inventory level of 156. The cost price for this product was 1134.53, while it was sold at a price of 1580.6. This led to a total revenue of 314538.86 and a profit margin of 88767.06. Additionally, discounts given amounted to 12395.85."
+
+"On 2023-01-01, during the Winter, the product with ID MacBook Air achieved sales of 261 units, resulting in an inventory level of 164. The cost price for this product was 912.99, while it was sold at a price of 1284.74. This led to a total revenue of 335316.45 and a profit margin of 97027.05. Additionally, discounts given amounted to 9169.28."
+
+"On 2023-01-01, during the Winter, the product with ID Samsung Smart TV achieved sales of 144 units, resulting in an inventory level of 138. The cost price for this product was 761.03, while it was sold at a price of 1169.11. This led to a total revenue of 168352.11 and a profit margin of 58764.45. Additionally, discounts given amounted to 13055.94."
+
+"On 2023-01-01, during the Winter, the product with ID Sony WH-1000XM4 achieved sales of 199 units, resulting in an inventory level of 448. The cost price for this product was 834.55, while it was sold at a price of 1110.18. This led to a total revenue of 220926.36 and a profit margin of 54850.44. Additionally, discounts given amounted to 27307.5."
+
+"On 2023-01-01, during the Winter, the product with ID PlayStation 5 achieved sales of 355 units, resulting in an inventory level of 711. The cost price for this product was 1216.09, while it was sold at a price of 1592.44. This led to a total revenue of 565316.75 and a profit margin of 133604.65. Additionally, discounts given amounted to 1515.72."
+
+"On 2023-01-16, during the Winter, the product with ID iPhone 14 achieved sales of 117 units, resulting in an inventory level of 566. The cost price for this product was 999.18, while it was sold at a price of 1194.55. This led to a total revenue of 139762.17 and a profit margin of 22857.69. Additionally, discounts given amounted to 20905.49."
+
+"On 2023-01-16, during the Winter, the product with ID MacBook Air achieved sales of 207 units, resulting in an inventory level of 330. The cost price for this product was 1446.72, while it was sold at a price of 1824.84. This led to a total revenue of 377741.48 and a profit margin of 78269.85. Additionally, discounts given amounted to 57147.57."
+
+"On 2023-01-16, during the Winter, the product with ID Samsung Smart TV achieved sales of 482 units, resulting in an inventory level of 592. The cost price for this product was 962.65, while it was sold at a price of 1081.43. This led to a total revenue of 521250.36 and a profit margin of 57255.28. Additionally, discounts given amounted to 104050.58."
+
+"On 2023-01-16, during the Winter, the product with ID Sony WH-1000XM4 achieved sales of 375 units, resulting in an inventory level of 492. The cost price for this product was 1259.88, while it was sold at a price of 1400.82. This led to a total revenue of 525305.96 and a profit margin of 52852.55. Additionally, discounts given amounted to 89671.45."
+
+"On 2023-01-16, during the Winter, the product with ID PlayStation 5 achieved sales of 353 units, resulting in an inventory level of 395. The cost price for this product was 436.84, while it was sold at a price of 580.05. This led to a total revenue of 204757.85 and a profit margin of 50553.81. Additionally, discounts given amounted to 39390.81."
+
+"On 2023-01-31, during the Winter, the product with ID iPhone 14 achieved sales of 235 units, resulting in an inventory level of 765. The cost price for this product was 434.42, while it was sold at a price of 633.99. This led to a total revenue of 148986.63 and a profit margin of 46897.4. Additionally, discounts given amounted to 20825.59."
+
+"On 2023-01-31, during the Winter, the product with ID MacBook Air achieved sales of 120 units, resulting in an inventory level of 974. The cost price for this product was 1418.9, while it was sold at a price of 1595.57. This led to a total revenue of 191468.18 and a profit margin of 21199.62. Additionally, discounts given amounted to 31943.49."
+
+"On 2023-01-31, during the Winter, the product with ID Samsung Smart TV achieved sales of 51 units, resulting in an inventory level of 911. The cost price for this product was 831.26, while it was sold at a price of 1020.44. This led to a total revenue of 52042.29 and a profit margin of 9648.18. Additionally, discounts given amounted to 270.5."
+
+"On 2023-01-31, during the Winter, the product with ID Sony WH-1000XM4 achieved sales of 70 units, resulting in an inventory level of 978. The cost price for this product was 669.38, while it was sold at a price of 1065.01. This led to a total revenue of 74550.89 and a profit margin of 27694.54. Additionally, discounts given amounted to 2742.64."
+
+"On 2023-01-31, during the Winter, the product with ID PlayStation 5 achieved sales of 273 units, resulting in an inventory level of 458. The cost price for this product was 914.09, while it was sold at a price of 1058.88. This led to a total revenue of 289075.38 and a profit margin of 39528.37. Additionally, discounts given amounted to 21435.73."
+
+"On 2023-02-15, during the Winter, the product with ID iPhone 14 achieved sales of 481 units, resulting in an inventory level of 409. The cost price for this product was 682.03, while it was sold at a price of 866.87. This led to a total revenue of 416962.61 and a profit margin of 88907.52. Additionally, discounts given amounted to 56839.98."
+
+"On 2023-02-15, during the Winter, the product with ID MacBook Air achieved sales of 479 units, resulting in an inventory level of 199. The cost price for this product was 936.55, while it was sold at a price of 1421.11. This led to a total revenue of 680710.86 and a profit margin of 232101.8. Additionally, discounts given amounted to 23509.6."
+
+"On 2023-02-15, during the Winter, the product with ID Samsung Smart TV achieved sales of 397 units, resulting in an inventory level of 353. The cost price for this product was 839.8, while it was sold at a price of 1021.62. This led to a total revenue of 405581.32 and a profit margin of 72179.58. Additionally, discounts given amounted to 74469.25."
+
+"On 2023-02-15, during the Winter, the product with ID Sony WH-1000XM4 achieved sales of 136 units, resulting in an inventory level of 593. The cost price for this product was 524.3, while it was sold at a price of 1022.47. This led to a total revenue of 139056.18 and a profit margin of 67751.45. Additionally, discounts given amounted to 22200.25."
+
+"On 2023-02-15, during the Winter, the product with ID PlayStation 5 achieved sales of 119 units, resulting in an inventory level of 404. The cost price for this product was 984.62, while it was sold at a price of 1406.13. This led to a total revenue of 167329.97 and a profit margin of 50159.77. Additionally, discounts given amounted to 33344.21."
+
+"On 2023-03-02, during the Spring, the product with ID iPhone 14 achieved sales of 84 units, resulting in an inventory level of 317. The cost price for this product was 869.05, while it was sold at a price of 1069.36. This led to a total revenue of 89826.6 and a profit margin of 16826.02. Additionally, discounts given amounted to 429.58."
+
+"On 2023-03-02, during the Spring, the product with ID MacBook Air achieved sales of 263 units, resulting in an inventory level of 861. The cost price for this product was 785.34, while it was sold at a price of 1043.48. This led to a total revenue of 274435.19 and a profit margin of 67889.8. Additionally, discounts given amounted to 49183.95."
+
+"On 2023-03-02, during the Spring, the product with ID Samsung Smart TV achieved sales of 484 units, resulting in an inventory level of 174. The cost price for this product was 570.74, while it was sold at a price of 1052.47. This led to a total revenue of 509396.72 and a profit margin of 233157.79. Additionally, discounts given amounted to 70447.98."
+
+"On 2023-03-02, during the Spring, the product with ID Sony WH-1000XM4 achieved sales of 153 units, resulting in an inventory level of 450. The cost price for this product was 329.63, while it was sold at a price of 687.27. This led to a total revenue of 105152.2 and a profit margin of 54718.99. Additionally, discounts given amounted to 867.62."
+
+"On 2023-03-02, during the Spring, the product with ID PlayStation 5 achieved sales of 360 units, resulting in an inventory level of 848. The cost price for this product was 1252.93, while it was sold at a price of 1448.96. This led to a total revenue of 521626.99 and a profit margin of 70573.9. Additionally, discounts given amounted to 5023.3."
+
+"On 2023-03-17, during the Spring, the product with ID iPhone 14 achieved sales of 421 units, resulting in an inventory level of 482. The cost price for this product was 970.33, while it was sold at a price of 1363.39. This led to a total revenue of 573986.25 and a profit margin of 165477.95. Additionally, discounts given amounted to 15573.39."
+
+"On 2023-03-17, during the Spring, the product with ID MacBook Air achieved sales of 432 units, resulting in an inventory level of 512. The cost price for this product was 598.22, while it was sold at a price of 786.05. This led to a total revenue of 339572.71 and a profit margin of 81142.91. Additionally, discounts given amounted to 2799.42."
+
+"On 2023-03-17, during the Spring, the product with ID Samsung Smart TV achieved sales of 245 units, resulting in an inventory level of 258. The cost price for this product was 629.11, while it was sold at a price of 1127.42. This led to a total revenue of 276216.91 and a profit margin of 122085.32. Additionally, discounts given amounted to 16802.73."
+
+"On 2023-03-17, during the Spring, the product with ID Sony WH-1000XM4 achieved sales of 471 units, resulting in an inventory level of 567. The cost price for this product was 1030.01, while it was sold at a price of 1489.86. This led to a total revenue of 701724.64 and a profit margin of 216589.9. Additionally, discounts given amounted to 103960.37."
+
+"On 2023-03-17, during the Spring, the product with ID PlayStation 5 achieved sales of 124 units, resulting in an inventory level of 954. The cost price for this product was 625.39, while it was sold at a price of 1011.51. This led to a total revenue of 125427.0 and a profit margin of 47879.04. Additionally, discounts given amounted to 5695.54."
+
+"On 2023-04-01, during the Spring, the product with ID iPhone 14 achieved sales of 81 units, resulting in an inventory level of 875. The cost price for this product was 321.26, while it was sold at a price of 607.07. This led to a total revenue of 49172.65 and a profit margin of 23150.53. Additionally, discounts given amounted to 6200.87."
+
+"On 2023-04-01, during the Spring, the product with ID MacBook Air achieved sales of 378 units, resulting in an inventory level of 175. The cost price for this product was 1341.41, while it was sold at a price of 1827.5. This led to a total revenue of 690794.22 and a profit margin of 183739.98. Additionally, discounts given amounted to 101666.95."
+
+"On 2023-04-01, during the Spring, the product with ID Samsung Smart TV achieved sales of 161 units, resulting in an inventory level of 909. The cost price for this product was 1498.15, while it was sold at a price of 1712.98. This led to a total revenue of 275790.3 and a profit margin of 34588.06. Additionally, discounts given amounted to 11133.1."
+
+"On 2023-04-01, during the Spring, the product with ID Sony WH-1000XM4 achieved sales of 193 units, resulting in an inventory level of 961. The cost price for this product was 1458.24, while it was sold at a price of 1558.96. This led to a total revenue of 300879.01 and a profit margin of 19437.98. Additionally, discounts given amounted to 47492.42."
+
+"On 2023-04-01, during the Spring, the product with ID PlayStation 5 achieved sales of 341 units, resulting in an inventory level of 269. The cost price for this product was 1291.14, while it was sold at a price of 1399.3. This led to a total revenue of 477162.2 and a profit margin of 36884.45. Additionally, discounts given amounted to 84349.78."
+
+"On 2023-04-16, during the Spring, the product with ID iPhone 14 achieved sales of 412 units, resulting in an inventory level of 514. The cost price for this product was 731.21, while it was sold at a price of 841.77. This led to a total revenue of 346810.33 and a profit margin of 45553.13. Additionally, discounts given amounted to 52533.24."
+
+"On 2023-04-16, during the Spring, the product with ID MacBook Air achieved sales of 462 units, resulting in an inventory level of 603. The cost price for this product was 672.96, while it was sold at a price of 1064.24. This led to a total revenue of 491677.18 and a profit margin of 180770.68. Additionally, discounts given amounted to 42413.85."
+
+"On 2023-04-16, during the Spring, the product with ID Samsung Smart TV achieved sales of 174 units, resulting in an inventory level of 769. The cost price for this product was 508.31, while it was sold at a price of 962.25. This led to a total revenue of 167431.91 and a profit margin of 78986.55. Additionally, discounts given amounted to 2610.23."
+
+"On 2023-04-16, during the Spring, the product with ID Sony WH-1000XM4 achieved sales of 95 units, resulting in an inventory level of 921. The cost price for this product was 779.22, while it was sold at a price of 955.98. This led to a total revenue of 90817.73 and a profit margin of 16791.69. Additionally, discounts given amounted to 13930.58."
+
+"On 2023-04-16, during the Spring, the product with ID PlayStation 5 achieved sales of 220 units, resulting in an inventory level of 841. The cost price for this product was 1102.15, while it was sold at a price of 1519.87. This led to a total revenue of 334372.01 and a profit margin of 91899.14. Additionally, discounts given amounted to 33914.25."
+
+"On 2023-05-01, during the Spring, the product with ID iPhone 14 achieved sales of 275 units, resulting in an inventory level of 843. The cost price for this product was 1140.4, while it was sold at a price of 1496.66. This led to a total revenue of 411580.88 and a profit margin of 97970.58. Additionally, discounts given amounted to 40722.83."
+
+"On 2023-05-01, during the Spring, the product with ID MacBook Air achieved sales of 408 units, resulting in an inventory level of 276. The cost price for this product was 590.3, while it was sold at a price of 1056.91. This led to a total revenue of 431220.3 and a profit margin of 190377.36. Additionally, discounts given amounted to 21239.89."
+
+"On 2023-05-01, during the Spring, the product with ID Samsung Smart TV achieved sales of 275 units, resulting in an inventory level of 229. The cost price for this product was 1092.7, while it was sold at a price of 1349.29. This led to a total revenue of 371053.88 and a profit margin of 70560.4. Additionally, discounts given amounted to 73541.03."
+
+"On 2023-05-01, during the Spring, the product with ID Sony WH-1000XM4 achieved sales of 363 units, resulting in an inventory level of 629. The cost price for this product was 394.32, while it was sold at a price of 710.8. This led to a total revenue of 258018.85 and a profit margin of 114879.78. Additionally, discounts given amounted to 40558.14."
+
+"On 2023-05-01, during the Spring, the product with ID PlayStation 5 achieved sales of 85 units, resulting in an inventory level of 319. The cost price for this product was 1335.28, while it was sold at a price of 1678.5. This led to a total revenue of 142672.71 and a profit margin of 29173.98. Additionally, discounts given amounted to 9164.67."
+
+"On 2023-05-16, during the Spring, the product with ID iPhone 14 achieved sales of 233 units, resulting in an inventory level of 245. The cost price for this product was 1325.75, while it was sold at a price of 1739.48. This led to a total revenue of 405299.01 and a profit margin of 96398.56. Additionally, discounts given amounted to 15202.66."
+
+"On 2023-05-16, during the Spring, the product with ID MacBook Air achieved sales of 155 units, resulting in an inventory level of 700. The cost price for this product was 1238.16, while it was sold at a price of 1450.1. This led to a total revenue of 224765.87 and a profit margin of 32851.54. Additionally, discounts given amounted to 4299.35."
+
+"On 2023-05-16, during the Spring, the product with ID Samsung Smart TV achieved sales of 313 units, resulting in an inventory level of 895. The cost price for this product was 350.92, while it was sold at a price of 538.78. This led to a total revenue of 168637.23 and a profit margin of 58799.42. Additionally, discounts given amounted to 14055.23."
+
+"On 2023-05-16, during the Spring, the product with ID Sony WH-1000XM4 achieved sales of 111 units, resulting in an inventory level of 812. The cost price for this product was 1489.95, while it was sold at a price of 1688.29. This led to a total revenue of 187399.83 and a profit margin of 22015.28. Additionally, discounts given amounted to 30745.42."
+
+"On 2023-05-16, during the Spring, the product with ID PlayStation 5 achieved sales of 338 units, resulting in an inventory level of 498. The cost price for this product was 1125.2, while it was sold at a price of 1298.15. This led to a total revenue of 438776.38 and a profit margin of 58458.08. Additionally, discounts given amounted to 59954.19."
+
+"On 2023-05-31, during the Spring, the product with ID iPhone 14 achieved sales of 434 units, resulting in an inventory level of 368. The cost price for this product was 1275.31, while it was sold at a price of 1479.99. This led to a total revenue of 642317.17 and a profit margin of 88834.63. Additionally, discounts given amounted to 84903.14."
+
+"On 2023-05-31, during the Spring, the product with ID MacBook Air achieved sales of 268 units, resulting in an inventory level of 682. The cost price for this product was 571.92, while it was sold at a price of 772.01. This led to a total revenue of 206899.43 and a profit margin of 53624.16. Additionally, discounts given amounted to 590.09."
+
+"On 2023-05-31, during the Spring, the product with ID Samsung Smart TV achieved sales of 260 units, resulting in an inventory level of 902. The cost price for this product was 989.48, while it was sold at a price of 1357.47. This led to a total revenue of 352942.0 and a profit margin of 95678.22. Additionally, discounts given amounted to 60325.68."
+
+"On 2023-05-31, during the Spring, the product with ID Sony WH-1000XM4 achieved sales of 201 units, resulting in an inventory level of 825. The cost price for this product was 599.34, while it was sold at a price of 806.3. This led to a total revenue of 162065.79 and a profit margin of 41597.74. Additionally, discounts given amounted to 23528.19."
+
+"On 2023-05-31, during the Spring, the product with ID PlayStation 5 achieved sales of 421 units, resulting in an inventory level of 726. The cost price for this product was 1262.41, while it was sold at a price of 1555.08. This led to a total revenue of 654686.92 and a profit margin of 123211.66. Additionally, discounts given amounted to 120494.97."
+
+"On 2023-06-15, during the Summer, the product with ID iPhone 14 achieved sales of 58 units, resulting in an inventory level of 333. The cost price for this product was 1255.88, while it was sold at a price of 1568.92. This led to a total revenue of 90997.57 and a profit margin of 18156.51. Additionally, discounts given amounted to 14532.25."
+
+"On 2023-06-15, during the Summer, the product with ID MacBook Air achieved sales of 422 units, resulting in an inventory level of 559. The cost price for this product was 737.53, while it was sold at a price of 982.7. This led to a total revenue of 414700.49 and a profit margin of 103461.04. Additionally, discounts given amounted to 48584.99."
+
+"On 2023-06-15, during the Summer, the product with ID Samsung Smart TV achieved sales of 117 units, resulting in an inventory level of 235. The cost price for this product was 300.28, while it was sold at a price of 669.15. This led to a total revenue of 78290.33 and a profit margin of 43157.71. Additionally, discounts given amounted to 3818.33."
+
+"On 2023-06-15, during the Summer, the product with ID Sony WH-1000XM4 achieved sales of 480 units, resulting in an inventory level of 969. The cost price for this product was 981.23, while it was sold at a price of 1473.32. This led to a total revenue of 707195.03 and a profit margin of 236205.22. Additionally, discounts given amounted to 81987.76."
+
+"On 2023-06-15, during the Summer, the product with ID PlayStation 5 achieved sales of 105 units, resulting in an inventory level of 623. The cost price for this product was 637.99, while it was sold at a price of 1054.26. This led to a total revenue of 110696.84 and a profit margin of 43708.22. Additionally, discounts given amounted to 21351.05."
+
+"On 2023-06-30, during the Summer, the product with ID iPhone 14 achieved sales of 367 units, resulting in an inventory level of 791. The cost price for this product was 1423.31, while it was sold at a price of 1635.08. This led to a total revenue of 600074.62 and a profit margin of 77719.24. Additionally, discounts given amounted to 15305.13."
+
+"On 2023-06-30, during the Summer, the product with ID MacBook Air achieved sales of 193 units, resulting in an inventory level of 568. The cost price for this product was 1058.33, while it was sold at a price of 1278.05. This led to a total revenue of 246663.93 and a profit margin of 42406.46. Additionally, discounts given amounted to 2124.3."
+
+"On 2023-06-30, during the Summer, the product with ID Samsung Smart TV achieved sales of 418 units, resulting in an inventory level of 485. The cost price for this product was 344.4, while it was sold at a price of 727.08. This led to a total revenue of 303918.37 and a profit margin of 159958.45. Additionally, discounts given amounted to 33498.31."
+
+"On 2023-06-30, during the Summer, the product with ID Sony WH-1000XM4 achieved sales of 343 units, resulting in an inventory level of 249. The cost price for this product was 406.72, while it was sold at a price of 514.48. This led to a total revenue of 176468.14 and a profit margin of 36962.87. Additionally, discounts given amounted to 22811.56."
+
+"On 2023-06-30, during the Summer, the product with ID PlayStation 5 achieved sales of 283 units, resulting in an inventory level of 516. The cost price for this product was 774.55, while it was sold at a price of 1088.1. This led to a total revenue of 307933.15 and a profit margin of 88736.51. Additionally, discounts given amounted to 21699.11."
+
+"On 2023-07-15, during the Summer, the product with ID iPhone 14 achieved sales of 456 units, resulting in an inventory level of 737. The cost price for this product was 572.82, while it was sold at a price of 1025.7. This led to a total revenue of 467717.33 and a profit margin of 206513.25. Additionally, discounts given amounted to 58997.18."
+
+"On 2023-07-15, during the Summer, the product with ID MacBook Air achieved sales of 408 units, resulting in an inventory level of 793. The cost price for this product was 1181.88, while it was sold at a price of 1500.1. This led to a total revenue of 612039.51 and a profit margin of 129833.22. Additionally, discounts given amounted to 16413.93."
+
+"On 2023-07-15, during the Summer, the product with ID Samsung Smart TV achieved sales of 189 units, resulting in an inventory level of 465. The cost price for this product was 1301.78, while it was sold at a price of 1555.85. This led to a total revenue of 294055.51 and a profit margin of 48018.28. Additionally, discounts given amounted to 32151.08."
+
+"On 2023-07-15, during the Summer, the product with ID Sony WH-1000XM4 achieved sales of 165 units, resulting in an inventory level of 454. The cost price for this product was 867.95, while it was sold at a price of 1019.33. This led to a total revenue of 168189.52 and a profit margin of 24978.48. Additionally, discounts given amounted to 2376.74."
+
+"On 2023-07-15, during the Summer, the product with ID PlayStation 5 achieved sales of 153 units, resulting in an inventory level of 216. The cost price for this product was 549.59, while it was sold at a price of 686.8. This led to a total revenue of 105081.05 and a profit margin of 20994.51. Additionally, discounts given amounted to 2030.94."
+
+"On 2023-07-30, during the Summer, the product with ID iPhone 14 achieved sales of 224 units, resulting in an inventory level of 209. The cost price for this product was 909.63, while it was sold at a price of 1050.7. This led to a total revenue of 235356.99 and a profit margin of 31600.9. Additionally, discounts given amounted to 46695.01."
+
+"On 2023-07-30, during the Summer, the product with ID MacBook Air achieved sales of 60 units, resulting in an inventory level of 801. The cost price for this product was 441.62, while it was sold at a price of 626.53. This led to a total revenue of 37591.83 and a profit margin of 11094.64. Additionally, discounts given amounted to 5579.14."
+
+"On 2023-07-30, during the Summer, the product with ID Samsung Smart TV achieved sales of 345 units, resulting in an inventory level of 608. The cost price for this product was 1257.58, while it was sold at a price of 1679.33. This led to a total revenue of 579367.82 and a profit margin of 145501.38. Additionally, discounts given amounted to 66002.07."
+
+"On 2023-07-30, during the Summer, the product with ID Sony WH-1000XM4 achieved sales of 243 units, resulting in an inventory level of 795. The cost price for this product was 1203.96, while it was sold at a price of 1364.99. This led to a total revenue of 331692.53 and a profit margin of 39129.45. Additionally, discounts given amounted to 49155.01."
+
+"On 2023-07-30, during the Summer, the product with ID PlayStation 5 achieved sales of 458 units, resulting in an inventory level of 196. The cost price for this product was 646.23, while it was sold at a price of 796.37. This led to a total revenue of 364739.47 and a profit margin of 68764.58. Additionally, discounts given amounted to 366.36."
+
+"On 2023-08-14, during the Summer, the product with ID iPhone 14 achieved sales of 101 units, resulting in an inventory level of 414. The cost price for this product was 1459.59, while it was sold at a price of 1757.3. This led to a total revenue of 177486.82 and a profit margin of 30068.35. Additionally, discounts given amounted to 24629.65."
+
+"On 2023-08-14, during the Summer, the product with ID MacBook Air achieved sales of 114 units, resulting in an inventory level of 687. The cost price for this product was 1021.84, while it was sold at a price of 1217.71. This led to a total revenue of 138819.09 and a profit margin of 22329.72. Additionally, discounts given amounted to 11260.23."
+
+"On 2023-08-14, during the Summer, the product with ID Samsung Smart TV achieved sales of 289 units, resulting in an inventory level of 752. The cost price for this product was 354.29, while it was sold at a price of 731.34. This led to a total revenue of 211356.48 and a profit margin of 108967.87. Additionally, discounts given amounted to 29079.18."
+
+"On 2023-08-14, during the Summer, the product with ID Sony WH-1000XM4 achieved sales of 221 units, resulting in an inventory level of 730. The cost price for this product was 799.25, while it was sold at a price of 951.71. This led to a total revenue of 210328.84 and a profit margin of 33694.17. Additionally, discounts given amounted to 21145.47."
+
+"On 2023-08-14, during the Summer, the product with ID PlayStation 5 achieved sales of 195 units, resulting in an inventory level of 256. The cost price for this product was 365.49, while it was sold at a price of 739.93. This led to a total revenue of 144286.46 and a profit margin of 73015.28. Additionally, discounts given amounted to 14755.82."
+
+"On 2023-08-29, during the Summer, the product with ID iPhone 14 achieved sales of 284 units, resulting in an inventory level of 907. The cost price for this product was 925.3, while it was sold at a price of 1185.6. This led to a total revenue of 336711.22 and a profit margin of 73926.12. Additionally, discounts given amounted to 15907.91."
+
+"On 2023-08-29, during the Summer, the product with ID MacBook Air achieved sales of 287 units, resulting in an inventory level of 919. The cost price for this product was 514.93, while it was sold at a price of 817.21. This led to a total revenue of 234539.99 and a profit margin of 86754.32. Additionally, discounts given amounted to 2955.53."
+
+"On 2023-08-29, during the Summer, the product with ID Samsung Smart TV achieved sales of 352 units, resulting in an inventory level of 738. The cost price for this product was 1122.75, while it was sold at a price of 1332.61. This led to a total revenue of 469078.91 and a profit margin of 73870.75. Additionally, discounts given amounted to 41418.83."
+
+"On 2023-08-29, during the Summer, the product with ID Sony WH-1000XM4 achieved sales of 461 units, resulting in an inventory level of 588. The cost price for this product was 930.68, while it was sold at a price of 1296.82. This led to a total revenue of 597835.09 and a profit margin of 168789.63. Additionally, discounts given amounted to 70507.57."
+
+"On 2023-08-29, during the Summer, the product with ID PlayStation 5 achieved sales of 282 units, resulting in an inventory level of 246. The cost price for this product was 761.86, while it was sold at a price of 1118.49. This led to a total revenue of 315414.0 and a profit margin of 100569.1. Additionally, discounts given amounted to 50514.95."
+
+"On 2023-09-13, during the Fall, the product with ID iPhone 14 achieved sales of 354 units, resulting in an inventory level of 551. The cost price for this product was 899.88, while it was sold at a price of 1081.36. This led to a total revenue of 382802.97 and a profit margin of 64246.9. Additionally, discounts given amounted to 56191.92."
+
+"On 2023-09-13, during the Fall, the product with ID MacBook Air achieved sales of 456 units, resulting in an inventory level of 658. The cost price for this product was 892.14, while it was sold at a price of 1086.33. This led to a total revenue of 495366.47 and a profit margin of 88550.14. Additionally, discounts given amounted to 94468.64."
+
+"On 2023-09-13, during the Fall, the product with ID Samsung Smart TV achieved sales of 364 units, resulting in an inventory level of 441. The cost price for this product was 815.3, while it was sold at a price of 952.44. This led to a total revenue of 346689.85 and a profit margin of 49922.27. Additionally, discounts given amounted to 8401.07."
+
+"On 2023-09-13, during the Fall, the product with ID Sony WH-1000XM4 achieved sales of 98 units, resulting in an inventory level of 683. The cost price for this product was 1472.51, while it was sold at a price of 1807.12. This led to a total revenue of 177097.4 and a profit margin of 32791.82. Additionally, discounts given amounted to 19921.4."
+
+"On 2023-09-13, during the Fall, the product with ID PlayStation 5 achieved sales of 189 units, resulting in an inventory level of 940. The cost price for this product was 1369.91, while it was sold at a price of 1616.72. This led to a total revenue of 305559.78 and a profit margin of 46647.1. Additionally, discounts given amounted to 18321.18."
+
+"On 2023-09-28, during the Fall, the product with ID iPhone 14 achieved sales of 236 units, resulting in an inventory level of 983. The cost price for this product was 813.37, while it was sold at a price of 942.49. This led to a total revenue of 222427.11 and a profit margin of 30472.38. Additionally, discounts given amounted to 7460.88."
+
+"On 2023-09-28, during the Fall, the product with ID MacBook Air achieved sales of 384 units, resulting in an inventory level of 762. The cost price for this product was 1485.86, while it was sold at a price of 1748.48. This led to a total revenue of 671414.82 and a profit margin of 100844.31. Additionally, discounts given amounted to 118641.79."
+
+"On 2023-09-28, during the Fall, the product with ID Samsung Smart TV achieved sales of 321 units, resulting in an inventory level of 545. The cost price for this product was 1003.09, while it was sold at a price of 1492.31. This led to a total revenue of 479032.54 and a profit margin of 157041.99. Additionally, discounts given amounted to 40213.45."
+
+"On 2023-09-28, during the Fall, the product with ID Sony WH-1000XM4 achieved sales of 461 units, resulting in an inventory level of 348. The cost price for this product was 673.26, while it was sold at a price of 1052.51. This led to a total revenue of 485209.03 and a profit margin of 174838.42. Additionally, discounts given amounted to 33846.52."
+
+"On 2023-09-28, during the Fall, the product with ID PlayStation 5 achieved sales of 296 units, resulting in an inventory level of 258. The cost price for this product was 1247.92, while it was sold at a price of 1674.79. This led to a total revenue of 495737.09 and a profit margin of 126353.29. Additionally, discounts given amounted to 57703.48."
+
+"On 2023-10-13, during the Fall, the product with ID iPhone 14 achieved sales of 209 units, resulting in an inventory level of 970. The cost price for this product was 803.74, while it was sold at a price of 1220.48. This led to a total revenue of 255080.43 and a profit margin of 87098.65. Additionally, discounts given amounted to 21419.59."
+
+"On 2023-10-13, during the Fall, the product with ID MacBook Air achieved sales of 356 units, resulting in an inventory level of 666. The cost price for this product was 458.91, while it was sold at a price of 936.88. This led to a total revenue of 333530.63 and a profit margin of 170157.25. Additionally, discounts given amounted to 5463.87."
+
+"On 2023-10-13, during the Fall, the product with ID Samsung Smart TV achieved sales of 471 units, resulting in an inventory level of 166. The cost price for this product was 392.11, while it was sold at a price of 692.37. This led to a total revenue of 326104.32 and a profit margin of 141421.0. Additionally, discounts given amounted to 51111.25."
+
+"On 2023-10-13, during the Fall, the product with ID Sony WH-1000XM4 achieved sales of 192 units, resulting in an inventory level of 335. The cost price for this product was 715.46, while it was sold at a price of 1189.47. This led to a total revenue of 228379.07 and a profit margin of 91011.17. Additionally, discounts given amounted to 39775.58."
+
+"On 2023-10-13, during the Fall, the product with ID PlayStation 5 achieved sales of 87 units, resulting in an inventory level of 942. The cost price for this product was 1351.08, while it was sold at a price of 1762.53. This led to a total revenue of 153339.93 and a profit margin of 35796.05. Additionally, discounts given amounted to 23908.85."
+
+"On 2023-10-28, during the Fall, the product with ID iPhone 14 achieved sales of 367 units, resulting in an inventory level of 944. The cost price for this product was 839.81, while it was sold at a price of 976.8. This led to a total revenue of 358484.94 and a profit margin of 50273.07. Additionally, discounts given amounted to 41867.89."
+
+"On 2023-10-28, during the Fall, the product with ID MacBook Air achieved sales of 438 units, resulting in an inventory level of 390. The cost price for this product was 1438.49, while it was sold at a price of 1546.73. This led to a total revenue of 677469.15 and a profit margin of 47409.08. Additionally, discounts given amounted to 17095.38."
+
+"On 2023-10-28, during the Fall, the product with ID Samsung Smart TV achieved sales of 450 units, resulting in an inventory level of 554. The cost price for this product was 954.84, while it was sold at a price of 1155.59. This led to a total revenue of 520014.4 and a profit margin of 90336.74. Additionally, discounts given amounted to 8648.64."
+
+"On 2023-10-28, during the Fall, the product with ID Sony WH-1000XM4 achieved sales of 222 units, resulting in an inventory level of 187. The cost price for this product was 935.47, while it was sold at a price of 1084.68. This led to a total revenue of 240799.14 and a profit margin of 33125.14. Additionally, discounts given amounted to 28950.75."
+
+"On 2023-10-28, during the Fall, the product with ID PlayStation 5 achieved sales of 88 units, resulting in an inventory level of 468. The cost price for this product was 755.18, while it was sold at a price of 1082.91. This led to a total revenue of 95296.51 and a profit margin of 28841.04. Additionally, discounts given amounted to 9975.45."
+
+"On 2023-11-12, during the Fall, the product with ID iPhone 14 achieved sales of 313 units, resulting in an inventory level of 321. The cost price for this product was 1178.29, while it was sold at a price of 1553.4. This led to a total revenue of 486213.65 and a profit margin of 117409.23. Additionally, discounts given amounted to 91189.37."
+
+"On 2023-11-12, during the Fall, the product with ID MacBook Air achieved sales of 445 units, resulting in an inventory level of 853. The cost price for this product was 1095.35, while it was sold at a price of 1229.42. This led to a total revenue of 547091.74 and a profit margin of 59660.76. Additionally, discounts given amounted to 20283.2."
+
+"On 2023-11-12, during the Fall, the product with ID Samsung Smart TV achieved sales of 288 units, resulting in an inventory level of 272. The cost price for this product was 975.53, while it was sold at a price of 1270.77. This led to a total revenue of 365982.4 and a profit margin of 85030.88. Additionally, discounts given amounted to 54201.62."
+
+"On 2023-11-12, during the Fall, the product with ID Sony WH-1000XM4 achieved sales of 217 units, resulting in an inventory level of 509. The cost price for this product was 966.54, while it was sold at a price of 1390.83. This led to a total revenue of 301810.59 and a profit margin of 92072.06. Additionally, discounts given amounted to 15497.69."
+
+"On 2023-11-12, during the Fall, the product with ID PlayStation 5 achieved sales of 119 units, resulting in an inventory level of 504. The cost price for this product was 940.02, while it was sold at a price of 1069.73. This led to a total revenue of 127298.23 and a profit margin of 15436.11. Additionally, discounts given amounted to 4454.92."
+
+"On 2023-11-27, during the Fall, the product with ID iPhone 14 achieved sales of 144 units, resulting in an inventory level of 273. The cost price for this product was 973.65, while it was sold at a price of 1329.77. This led to a total revenue of 191486.18 and a profit margin of 51280.22. Additionally, discounts given amounted to 22072.3."
+
+"On 2023-11-27, during the Fall, the product with ID MacBook Air achieved sales of 482 units, resulting in an inventory level of 911. The cost price for this product was 969.94, while it was sold at a price of 1372.38. This led to a total revenue of 661485.8 and a profit margin of 193975.54. Additionally, discounts given amounted to 77011.48."
+
+"On 2023-11-27, during the Fall, the product with ID Samsung Smart TV achieved sales of 369 units, resulting in an inventory level of 654. The cost price for this product was 559.31, while it was sold at a price of 936.47. This led to a total revenue of 345557.26 and a profit margin of 139171.87. Additionally, discounts given amounted to 48139.35."
+
+"On 2023-11-27, during the Fall, the product with ID Sony WH-1000XM4 achieved sales of 415 units, resulting in an inventory level of 100. The cost price for this product was 839.18, while it was sold at a price of 1063.98. This led to a total revenue of 441551.25 and a profit margin of 93292.01. Additionally, discounts given amounted to 49386.98."
+
+"On 2023-11-27, during the Fall, the product with ID PlayStation 5 achieved sales of 320 units, resulting in an inventory level of 971. The cost price for this product was 1292.42, while it was sold at a price of 1540.25. This led to a total revenue of 492880.41 and a profit margin of 79304.93. Additionally, discounts given amounted to 26355.43."
+
+"On 2023-12-12, during the Winter, the product with ID iPhone 14 achieved sales of 182 units, resulting in an inventory level of 472. The cost price for this product was 1070.82, while it was sold at a price of 1418.62. This led to a total revenue of 258188.18 and a profit margin of 63298.12. Additionally, discounts given amounted to 37377.24."
+
+"On 2023-12-12, during the Winter, the product with ID MacBook Air achieved sales of 82 units, resulting in an inventory level of 161. The cost price for this product was 1222.77, while it was sold at a price of 1544.96. This led to a total revenue of 126687.11 and a profit margin of 26419.74. Additionally, discounts given amounted to 630.36."
+
+"On 2023-12-12, during the Winter, the product with ID Samsung Smart TV achieved sales of 311 units, resulting in an inventory level of 963. The cost price for this product was 1039.66, while it was sold at a price of 1338.11. This led to a total revenue of 416151.12 and a profit margin of 92815.42. Additionally, discounts given amounted to 78806.27."
+
+"On 2023-12-12, during the Winter, the product with ID Sony WH-1000XM4 achieved sales of 437 units, resulting in an inventory level of 128. The cost price for this product was 1314.49, while it was sold at a price of 1636.51. This led to a total revenue of 715154.1 and a profit margin of 140720.8. Additionally, discounts given amounted to 31792.0."
+
+"On 2023-12-12, during the Winter, the product with ID PlayStation 5 achieved sales of 76 units, resulting in an inventory level of 223. The cost price for this product was 649.87, while it was sold at a price of 1147.11. This led to a total revenue of 87180.01 and a profit margin of 37790.03. Additionally, discounts given amounted to 5278.22."
+
+"On 2023-12-27, during the Winter, the product with ID iPhone 14 achieved sales of 481 units, resulting in an inventory level of 200. The cost price for this product was 1248.57, while it was sold at a price of 1437.78. This led to a total revenue of 691573.56 and a profit margin of 91011.85. Additionally, discounts given amounted to 120408.3."
+
+"On 2023-12-27, during the Winter, the product with ID MacBook Air achieved sales of 171 units, resulting in an inventory level of 441. The cost price for this product was 1421.47, while it was sold at a price of 1661.45. This led to a total revenue of 284108.71 and a profit margin of 41037.2. Additionally, discounts given amounted to 3424.64."
+
+"On 2023-12-27, during the Winter, the product with ID Samsung Smart TV achieved sales of 382 units, resulting in an inventory level of 450. The cost price for this product was 970.55, while it was sold at a price of 1267.1. This led to a total revenue of 484032.78 and a profit margin of 113282.99. Additionally, discounts given amounted to 54452.77."
+
+"On 2023-12-27, during the Winter, the product with ID Sony WH-1000XM4 achieved sales of 303 units, resulting in an inventory level of 846. The cost price for this product was 354.51, while it was sold at a price of 506.21. This led to a total revenue of 153380.44 and a profit margin of 45964.0. Additionally, discounts given amounted to 5726.36."
+
+"On 2023-12-27, during the Winter, the product with ID PlayStation 5 achieved sales of 384 units, resulting in an inventory level of 297. The cost price for this product was 761.92, while it was sold at a price of 884.96. This led to a total revenue of 339823.77 and a profit margin of 47248.02. Additionally, discounts given amounted to 60808.1."
+
